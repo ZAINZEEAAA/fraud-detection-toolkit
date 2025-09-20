@@ -20,8 +20,9 @@ Fraudulent transactions are a major challenge in financial systems. This project
 
 📂 Dataset
 
-This project uses a dataset of financial transactions containing both legitimate and fraudulent records.
-(You can add a link or details of your dataset here.)
+This project uses a publicly available dataset of financial transactions containing both legitimate and fraudulent records.
+
+📌 Dataset Source: Credit Card Fraud Detection Dataset – Kaggle
 
 🛠️ Installation
 
